@@ -1,5 +1,5 @@
-# Editor
-.vscode
+log
+dist
+.idea
+venv
 
-# Jupyter Notebook
-.ipynb_checkpoints
